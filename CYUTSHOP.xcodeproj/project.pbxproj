@@ -13,6 +13,7 @@
 		04239CD32B076D2300D2B429 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04239CD22B076D2300D2B429 /* Preview Assets.xcassets */; };
 		04239CD52B076D2300D2B429 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04239CD42B076D2300D2B429 /* Persistence.swift */; };
 		04239CD82B076D2300D2B429 /* CYUTSHOP.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 04239CD62B076D2300D2B429 /* CYUTSHOP.xcdatamodeld */; };
+		04239CDF2B076D4A00D2B429 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04239CDE2B076D4A00D2B429 /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		04239CD22B076D2300D2B429 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		04239CD42B076D2300D2B429 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		04239CD72B076D2300D2B429 /* CYUTSHOP.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CYUTSHOP.xcdatamodel; sourceTree = "<group>"; };
+		04239CDE2B076D4A00D2B429 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			children = (
 				04239CCB2B076D2300D2B429 /* CYUTSHOPApp.swift */,
 				04239CCD2B076D2300D2B429 /* ContentView.swift */,
+				04239CDE2B076D4A00D2B429 /* HomeView.swift */,
 				04239CCF2B076D2300D2B429 /* Assets.xcassets */,
 				04239CD42B076D2300D2B429 /* Persistence.swift */,
 				04239CD62B076D2300D2B429 /* CYUTSHOP.xcdatamodeld */,
@@ -146,6 +149,7 @@
 				04239CD82B076D2300D2B429 /* CYUTSHOP.xcdatamodeld in Sources */,
 				04239CD52B076D2300D2B429 /* Persistence.swift in Sources */,
 				04239CCE2B076D2300D2B429 /* ContentView.swift in Sources */,
+				04239CDF2B076D4A00D2B429 /* HomeView.swift in Sources */,
 				04239CCC2B076D2300D2B429 /* CYUTSHOPApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
