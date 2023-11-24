@@ -57,12 +57,12 @@
 		04239CCA2B076D2300D2B429 /* CYUTSHOP */ = {
 			isa = PBXGroup;
 			children = (
+				04239CD62B076D2300D2B429 /* CYUTSHOP.xcdatamodeld */,
 				04239CCB2B076D2300D2B429 /* CYUTSHOPApp.swift */,
 				04239CCD2B076D2300D2B429 /* ContentView.swift */,
 				04239CDE2B076D4A00D2B429 /* HomeView.swift */,
 				04239CCF2B076D2300D2B429 /* Assets.xcassets */,
 				04239CD42B076D2300D2B429 /* Persistence.swift */,
-				04239CD62B076D2300D2B429 /* CYUTSHOP.xcdatamodeld */,
 				04239CD12B076D2300D2B429 /* Preview Content */,
 			);
 			path = CYUTSHOP;
